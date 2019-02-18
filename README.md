@@ -9,6 +9,8 @@ An Elegant Alipay &amp; Wechat Pay Gateway
 本项目包含了 Mysql 数据库的样例操作与微信支付流程的体验优化
 
 <br/>
+![gateway](https://i.loli.net/2019/02/18/5c6a34f654d70.png)
+![wechatpay](https://i.loli.net/2019/02/18/5c6a34f6519c4.png)
 
 样例数据处理来自 [Snapaper Platform](https://platform.snapaper.com)，能够实现：
 1. 付费文章购买
