@@ -4,7 +4,7 @@ An Elegant Alipay &amp; Wechat Pay Gateway
 
 <br/>
 
-基于开源支付网关项目[](https://github.com/dedemao/alipay)与[](https://github.com/dedemao/weixinPay)
+基于开源支付网关项目 [Alipay](https://github.com/dedemao/alipay) 与 [WeixinPay](https://github.com/dedemao/weixinPay)
 <br/>
 本项目包含了 Mysql 数据库的样例操作与微信支付流程的体验优化
 
