@@ -1,12 +1,11 @@
 # aliwe_pay
 An Elegant Alipay &amp; Wechat Pay Gateway
 <br/>
+
 [中文README](https://www.ouorz.com/288)
 <br/>
-3 files to build a payment gateway that works well
 
-<br/>
-
+#### 3 files to build a payment gateway that works well
 Based on open sourced payment gateway project [Alipay](https://github.com/dedemao/alipay) and [WeixinPay](https://github.com/dedemao/weixinPay)
 <br/>
 This project includes sample codes for Mysql database operations and user experience optimization of WeChat payment process.
