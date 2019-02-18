@@ -11,7 +11,7 @@ An Elegant Alipay &amp; Wechat Pay Gateway
 <br/>
 
 ### 文件解析
-+ 支付宝 Alipay
++ **支付宝 Alipay**
   + 涉及3个以 alipay 开头的文件
   + alipay.php
     + 接受订单号、金额信息(按照官方文档，有一种方法可以直接发送参数到支付宝再原样返回)
@@ -25,7 +25,7 @@ An Elegant Alipay &amp; Wechat Pay Gateway
 
 <br/>    
 
-+ 微信支付 Wechat Pay
++ **微信支付 Wechat Pay**
   + 涉及3个以 wechatpay 开头的文件
   + wechatpay.php
     + 接受订单号、金额信息(按照官方文档，有一种方法可以直接发送参数到支付宝再原样返回)
@@ -44,5 +44,6 @@ An Elegant Alipay &amp; Wechat Pay Gateway
 ### 食用方法
 ```
 git clone git@github.com:HelipengTony/aliwe_pay.git
+
 数据库及支付接口配置信息包含在了各个文件内
 ```
