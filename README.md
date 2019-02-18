@@ -7,6 +7,14 @@ An Elegant Alipay &amp; Wechat Pay Gateway
 基于开源支付网关项目 [Alipay](https://github.com/dedemao/alipay) 与 [WeixinPay](https://github.com/dedemao/weixinPay)
 <br/>
 本项目包含了 Mysql 数据库的样例操作与微信支付流程的体验优化
+<br/>
+样例数据处理来自 [Snapaper Platform](https://platform.snapaper.com)，能够实现：
+1. 付费文章购买
+2. 付费视频购买
+3. 付费内容数据增加
+4. 付费会员购买
+5. 付费会员时长增加
+6. 等等...
 
 <br/>
 
