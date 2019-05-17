@@ -7,11 +7,12 @@
  * 订单号为时间戳 a 文章ID a 支付者ID
  * 回调时分隔字符串，[1]为文章ID，[2]为用户ID
  */
+
 $current_user_id = $_POST['user'];
 $current_post_id = (string)$_POST['post'];
 header('Content-type:text/html; Charset=utf-8');
 /*** 请填写以下配置信息 ***/
-$appid = 'xxxxxx';			//https://open.alipay.com 账户中心->密钥管理->开放平台密钥，填写添加了电脑网站支付的应用的APPID
+$appid = 'xxxxxx';			// https://open.alipay.com 账户中心->密钥管理->开放平台密钥，填写添加了电脑网站支付的应用的APPID
 $returnUrl = 'https://xxx.com/alipay_return.php';     //付款成功后的同步回调地址
 $notifyUrl = 'https://xxx.com/alipay_notify.php';     //付款成功后的异步回调地址
 $payAmount = $_POST['amount'];          //付款金额，单位:元
